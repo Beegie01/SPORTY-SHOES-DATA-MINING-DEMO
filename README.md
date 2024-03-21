@@ -8,5 +8,4 @@ Then, I cleaned, transformed, and integrated the dataset from multiple source fi
 These excel files were used as data warehouses only requiring periodic refreshes to access up-to-date information. 
 From these data warehouses, I performed data mining and analysis to provide important information about key aspects of the business in the form of dashboards.
 
-The output of my analysis is contained in the PDF. Kindly download the PDF to view key information.
-https://github.com/Beegie01/SPORTY-SHOES-DATA-MINING-DEMO/blob/main/sales%20analysis%20of%20sporty%20shoes.pdf
+The output of my analysis is contained in the PDF <https://github.com/Beegie01/SPORTY-SHOES-DATA-MINING-DEMO/blob/main/sales%20analysis%20of%20sporty%20shoes.pdf>. Kindly download the PDF to view key information.
