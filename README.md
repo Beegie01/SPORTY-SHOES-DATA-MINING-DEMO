@@ -7,3 +7,5 @@ Firstly, I designed and modelled the database to immitate a retail shop that sel
 Then, I cleaned, transformed, and integrated the dataset from multiple source files into a unified view which was loaded to excel files. 
 These excel files were used as data warehouses only requiring periodic refreshes to access up-to-date information. 
 From these data warehouses, I performed data mining and analysis to provide important information about key aspects of the business in the form of dashboards.
+
+The output of my analysis is contained in the PDF. Kindly download the PDF to view key information.
